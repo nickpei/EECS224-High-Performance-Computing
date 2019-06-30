@@ -1,1 +1,1 @@
-# Dijkstra-s-Algorithm-Parallelization-with-OpenMP-and-CUDA
+# Dijkstra-Algorithm-Parallelization-with-OpenMP-and-CUDA
